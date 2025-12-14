@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**KLimerencer/KLimerencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 📚 I'm a fourth-year Computer Science Major and Statistic Major at the University of Toronto
+- 💡 Interests: **Software Development, Web Development, and Machine Learning**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kyle-li-575793272/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Languages & Tools
+
+[![My Languages & Tools](https://skillicons.dev/icons?i=py,java,react,c,r,css,figma,html,js)](https://skillicons.dev)
+
